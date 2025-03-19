@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ya5h-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="ya5h-chaudhari" /> </p>
 
-- 🌱 I’m currently learning **AI-ML**
-
-- 📫 How to reach me **yash99768@gmail.com**
-
-- ⚡ Fun fact **I create fun project**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash chaudhari" height="30" width="40" /></a>
